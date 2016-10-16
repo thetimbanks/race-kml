@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>Boston Marathon Route</name><Style id="route">
                 <LineStyle>
-                    <color>00000000</color>
+                    <color>ff000000</color>
                     <width>1</width>
                 </LineStyle>
                 <PolyStyle>
-                    <color>00000000</color>
+                    <color>ff000000</color>
                 </PolyStyle>
               </Style><Placemark><name>Boston Marathon Route</name><styleUrl>#route</styleUrl><LookAt><longitude>-71.522026</longitude><latitude>42.228422</latitude><range>6000</range><tilt>45.0</tilt><heading>0.0</heading></LookAt><visibility>1</visibility><LineString>
             <extrude>0</extrude>
